@@ -21,6 +21,9 @@ public class AllOperators {
         int a = 20;//20
         int b= -a--     +   a++     +   --a     *     a--;
         //     -20      +   19      +   19      *     19
+        //     -20      +   19      +   361
+        //     -1       +   361
+        //     360
         System.out.println(b);
     }
 }
