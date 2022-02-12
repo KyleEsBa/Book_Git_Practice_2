@@ -1,4 +1,4 @@
-package day_07_unary_operators;
+package day7_unary_operators;
 
 public class IncrementExample3 {
     public static void main(String[] args) {

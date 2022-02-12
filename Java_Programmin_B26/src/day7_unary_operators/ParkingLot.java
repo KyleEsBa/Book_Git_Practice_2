@@ -1,4 +1,4 @@
-package day_07_unary_operators;
+package day7_unary_operators;
 
 public class ParkingLot {
     public static void main(String[] args) {
