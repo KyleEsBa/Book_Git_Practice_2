@@ -7,7 +7,6 @@ public class First {
     //extra line1
     //extra line2
     //extra line3
-
-    //making changes on the master branch
+    //adding joe smoke test
     //not going into smoke test
 }
